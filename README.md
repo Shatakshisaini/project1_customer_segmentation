@@ -110,4 +110,3 @@ jupyter notebook Customer_Segmentation_RFM_Analysis.ipynb
 
 ---
 
-*Part of my Data Analyst portfolio. See also: [Sales Performance Dashboard](https://github.com/shatakshi-saini/retail-sales-dashboard)*
