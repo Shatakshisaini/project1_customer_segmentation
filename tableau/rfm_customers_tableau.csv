@@ -1,0 +1,1001 @@
+customer_id,Recency,Frequency,Monetary,R_score,F_score,M_score,RFM_Total,Segment,Churn_Risk,Action_Recommended
+CUST0001,295,12,9478.87,2,4,4,10,At Risk,High,Win-back Campaign
+CUST0002,489,2,445.84,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0003,210,1,339.53,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0004,419,1,191.19,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0005,13,23,20486.47,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0006,84,17,10616.93,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0007,6,44,36621.37,5,5,5,15,Champions,Low,Reward & Retain
+CUST0008,453,2,664.22,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0009,437,2,643.13,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0010,405,1,564.03,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0011,29,49,104527.64,5,5,5,15,Champions,Low,Reward & Retain
+CUST0012,263,3,1805.12,2,2,3,7,At Risk,High,Win-back Campaign
+CUST0013,215,3,1104.93,3,2,3,8,At Risk,High,Win-back Campaign
+CUST0014,73,24,19187.77,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0015,147,12,6914.22,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0016,40,18,13524.44,5,4,5,14,Loyal Customers,Low,Upsell
+CUST0017,125,8,5380.82,4,3,4,11,At Risk,High,Win-back Campaign
+CUST0018,724,1,189.97,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0019,493,5,3418.44,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0020,42,12,9238.92,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0021,485,5,896.7,1,3,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0022,38,15,15440.83,5,4,5,14,Loyal Customers,Low,Upsell
+CUST0023,164,16,14820.27,3,4,5,12,Loyal Customers,Low,Upsell
+CUST0024,174,12,3349.14,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0025,265,5,1509.28,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0026,328,1,701.92,2,1,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0027,14,11,10594.54,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0028,616,1,181.14,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0029,351,3,1104.72,2,2,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0030,36,45,108642.63,5,5,5,15,Champions,Low,Reward & Retain
+CUST0031,259,3,897.59,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0032,91,18,17901.47,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0033,7,20,50929.39,5,5,5,15,Champions,Low,Reward & Retain
+CUST0034,376,3,1563.07,2,2,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0035,24,2,1019.32,5,1,2,8,At Risk,High,Win-back Campaign
+CUST0036,210,3,1409.61,3,2,3,8,At Risk,High,Win-back Campaign
+CUST0037,294,6,3452.65,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0038,20,41,120421.87,5,5,5,15,Champions,Low,Reward & Retain
+CUST0039,350,1,369.44,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0040,246,11,6930.77,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0041,52,24,14965.69,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0042,422,5,1004.23,1,3,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0043,24,38,76721.25,5,5,5,15,Champions,Low,Reward & Retain
+CUST0044,47,2,1109.71,5,1,3,9,At Risk,High,Win-back Campaign
+CUST0045,97,14,8781.07,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0046,392,5,1281.61,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0047,200,10,4758.59,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0048,315,5,1162.41,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0049,652,2,774.06,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0050,56,22,25039.37,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0051,157,3,488.27,3,2,1,6,At Risk,High,Win-back Campaign
+CUST0052,472,1,302.61,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0053,260,3,763.88,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0054,44,2,758.55,5,1,2,8,At Risk,High,Win-back Campaign
+CUST0055,341,5,1889.24,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0056,100,3,2017.93,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0057,86,23,59121.15,4,5,5,14,Champions,Low,Reward & Retain
+CUST0058,172,16,12465.68,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0059,32,39,32028.95,5,5,5,15,Champions,Low,Reward & Retain
+CUST0060,255,12,6271.89,2,4,4,10,At Risk,High,Win-back Campaign
+CUST0061,246,8,4688.79,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0062,42,18,10647.46,5,5,4,14,Loyal Customers,Low,Upsell
+CUST0063,251,2,716.72,2,1,2,5,At Risk,High,Win-back Campaign
+CUST0064,106,9,6795.1,4,3,4,11,At Risk,High,Win-back Campaign
+CUST0065,34,12,8647.73,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0066,292,4,1640.0,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0067,27,22,24771.71,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0068,282,2,871.26,2,1,2,5,At Risk,High,Win-back Campaign
+CUST0069,43,31,27772.54,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0070,117,3,839.76,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0071,445,1,283.44,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0072,66,16,10408.86,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0073,8,28,59510.23,5,5,5,15,Champions,Low,Reward & Retain
+CUST0074,506,3,1412.24,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0075,232,2,546.26,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0076,124,2,582.83,4,1,2,7,At Risk,High,Win-back Campaign
+CUST0077,116,1,245.66,4,1,1,6,At Risk,High,Win-back Campaign
+CUST0078,74,37,61273.26,4,5,5,14,Champions,Low,Reward & Retain
+CUST0079,192,11,9678.61,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0080,87,14,9387.93,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0081,51,2,1016.42,5,1,2,8,At Risk,High,Win-back Campaign
+CUST0082,686,1,242.39,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0083,162,5,4635.33,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0084,50,38,60887.96,5,5,5,15,Champions,Low,Reward & Retain
+CUST0085,175,11,7441.31,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0086,196,14,7736.69,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0087,246,2,876.62,3,1,2,6,At Risk,High,Win-back Campaign
+CUST0088,518,4,1368.87,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0089,41,2,1279.77,5,1,3,9,At Risk,High,Win-back Campaign
+CUST0090,288,1,408.67,2,1,1,4,At Risk,High,Win-back Campaign
+CUST0091,49,10,9039.04,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0092,405,3,1254.32,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0093,396,1,602.61,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0094,464,4,1839.06,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0095,54,1,536.12,5,1,1,7,At Risk,High,Win-back Campaign
+CUST0096,282,2,353.63,2,1,1,4,At Risk,High,Win-back Campaign
+CUST0097,491,1,266.09,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0098,197,6,2395.17,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0099,12,26,44079.4,5,5,5,15,Champions,Low,Reward & Retain
+CUST0100,64,20,17634.29,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0101,52,30,31211.82,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0102,346,4,468.63,2,3,1,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0103,213,11,4353.0,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0104,458,1,190.63,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0105,260,1,132.25,2,1,1,4,At Risk,High,Win-back Campaign
+CUST0106,37,21,9823.6,5,5,4,14,Loyal Customers,Low,Upsell
+CUST0107,273,13,7444.22,2,4,4,10,At Risk,High,Win-back Campaign
+CUST0108,395,3,2120.38,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0109,103,14,15634.77,4,4,5,13,Loyal Customers,Low,Upsell
+CUST0110,21,35,34713.58,5,5,5,15,Champions,Low,Reward & Retain
+CUST0111,53,13,5677.4,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0112,30,23,16310.26,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0113,134,3,609.3,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0114,593,1,299.9,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0115,262,3,1081.11,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0116,302,2,879.92,2,1,2,5,At Risk,High,Win-back Campaign
+CUST0117,522,3,1634.82,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0118,157,21,19988.02,3,5,5,13,Loyal Customers,Low,Upsell
+CUST0119,178,3,913.12,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0120,495,2,366.86,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0121,129,3,508.3,4,2,1,7,At Risk,High,Win-back Campaign
+CUST0122,74,1,310.3,4,1,1,6,At Risk,High,Win-back Campaign
+CUST0123,153,11,7110.47,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0124,63,13,6857.63,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0125,57,19,20448.91,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0126,170,14,5781.92,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0127,70,2,1091.79,4,1,3,8,At Risk,High,Win-back Campaign
+CUST0128,116,3,839.53,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0129,51,38,98333.74,5,5,5,15,Champions,Low,Reward & Retain
+CUST0130,329,5,905.94,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0131,194,13,8482.72,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0132,79,13,5284.4,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0133,57,17,14401.49,4,4,5,13,Loyal Customers,Low,Upsell
+CUST0134,263,6,3771.88,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0135,302,2,864.08,2,1,2,5,At Risk,High,Win-back Campaign
+CUST0136,242,12,5498.73,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0137,346,3,1030.28,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0138,346,1,562.06,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0139,294,10,6058.89,2,4,4,10,At Risk,High,Win-back Campaign
+CUST0140,367,2,842.25,2,1,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0141,136,2,958.05,4,1,2,7,At Risk,High,Win-back Campaign
+CUST0142,55,19,16391.49,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0143,391,3,609.5,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0144,411,5,1814.37,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0145,54,12,13548.8,5,4,5,14,Loyal Customers,Low,Upsell
+CUST0146,37,37,44192.16,5,5,5,15,Champions,Low,Reward & Retain
+CUST0147,380,5,707.0,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0148,386,2,858.21,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0149,1,39,100360.17,5,5,5,15,Champions,Low,Reward & Retain
+CUST0150,95,13,7075.84,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0151,281,1,337.85,2,1,1,4,At Risk,High,Win-back Campaign
+CUST0152,124,12,8599.49,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0153,56,23,10509.74,5,5,4,14,Loyal Customers,Low,Upsell
+CUST0154,338,4,739.27,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0155,268,1,394.75,2,1,1,4,At Risk,High,Win-back Campaign
+CUST0156,30,16,11896.42,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0157,425,1,289.17,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0158,367,2,1357.12,2,1,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0159,67,18,14011.85,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0160,160,2,815.08,3,1,2,6,At Risk,High,Win-back Campaign
+CUST0161,142,8,4640.96,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0162,497,2,662.31,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0163,362,2,310.62,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0164,469,2,757.5,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0165,32,46,49157.14,5,5,5,15,Champions,Low,Reward & Retain
+CUST0166,155,2,766.87,3,1,2,6,At Risk,High,Win-back Campaign
+CUST0167,188,11,4446.35,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0168,175,13,6369.4,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0169,18,37,33438.15,5,5,5,15,Champions,Low,Reward & Retain
+CUST0170,213,3,760.34,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0171,309,5,621.33,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0172,71,21,21891.82,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0173,515,4,437.88,1,3,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0174,213,10,9137.25,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0175,298,5,1001.47,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0176,97,17,11187.41,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0177,457,1,162.85,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0178,259,12,8875.99,2,4,4,10,At Risk,High,Win-back Campaign
+CUST0179,116,3,1154.8,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0180,80,13,8598.17,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0181,160,12,8567.85,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0182,77,12,9089.0,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0183,55,1,247.84,5,1,1,7,At Risk,High,Win-back Campaign
+CUST0184,84,2,589.85,4,1,2,7,At Risk,High,Win-back Campaign
+CUST0185,69,13,10854.65,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0186,658,2,636.71,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0187,259,3,673.55,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0188,322,5,1414.85,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0189,566,1,76.29,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0190,65,23,19765.48,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0191,32,41,38228.39,5,5,5,15,Champions,Low,Reward & Retain
+CUST0192,581,2,1135.31,1,1,3,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0193,105,1,477.02,4,1,1,6,At Risk,High,Win-back Campaign
+CUST0194,380,1,123.12,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0195,279,10,8518.33,2,4,4,10,At Risk,High,Win-back Campaign
+CUST0196,140,13,11057.74,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0197,611,2,570.91,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0198,197,3,698.72,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0199,152,3,926.09,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0200,459,2,663.51,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0201,367,2,105.25,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0202,17,20,40933.86,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0203,74,23,25624.37,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0204,660,1,528.03,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0205,569,1,167.86,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0206,1,33,38634.18,5,5,5,15,Champions,Low,Reward & Retain
+CUST0207,71,20,17164.39,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0208,430,1,129.81,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0209,53,23,31884.89,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0210,70,18,8074.46,4,5,4,13,Loyal Customers,Low,Upsell
+CUST0211,360,5,856.56,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0212,352,2,595.49,2,1,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0213,338,5,1334.08,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0214,97,16,15650.52,4,4,5,13,Loyal Customers,Low,Upsell
+CUST0215,473,1,370.18,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0216,136,16,12897.14,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0217,221,10,7256.77,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0218,178,3,1481.98,3,2,3,8,At Risk,High,Win-back Campaign
+CUST0219,355,4,493.99,2,3,1,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0220,315,2,678.15,2,1,2,5,At Risk,High,Win-back Campaign
+CUST0221,540,1,104.38,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0222,436,4,1450.84,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0223,31,27,29188.56,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0224,196,10,9405.15,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0225,96,13,9851.56,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0226,56,19,15005.6,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0227,135,3,755.58,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0228,130,14,6761.68,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0229,299,3,881.28,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0230,374,5,1927.49,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0231,101,1,338.49,4,1,1,6,At Risk,High,Win-back Campaign
+CUST0232,355,5,1630.24,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0233,388,5,1231.85,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0234,238,2,304.56,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0235,35,13,4924.12,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0236,156,3,890.27,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0237,35,21,22972.29,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0238,15,20,46403.15,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0239,385,5,1512.35,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0240,30,21,25127.2,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0241,60,3,1046.74,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0242,140,3,983.68,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0243,300,3,1085.56,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0244,146,12,5768.02,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0245,37,40,83583.5,5,5,5,15,Champions,Low,Reward & Retain
+CUST0246,460,2,1044.04,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0247,270,5,3822.51,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0248,131,3,789.37,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0249,716,1,339.18,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0250,460,1,209.99,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0251,44,10,6117.32,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0252,213,14,8754.07,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0253,47,3,1745.48,5,2,3,10,At Risk,High,Win-back Campaign
+CUST0254,117,5,3428.92,4,3,3,10,At Risk,High,Win-back Campaign
+CUST0255,141,16,9273.45,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0256,360,5,731.57,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0257,205,3,1944.31,3,2,3,8,At Risk,High,Win-back Campaign
+CUST0258,499,1,109.95,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0259,495,2,818.97,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0260,10,27,30657.54,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0261,518,2,673.7,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0262,543,1,787.93,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0263,50,18,15908.48,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0264,457,3,505.78,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0265,499,3,1376.3,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0266,422,1,522.82,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0267,383,2,439.45,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0268,170,1,211.76,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0269,183,6,2619.36,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0270,39,19,14605.74,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0271,7,2,851.58,5,1,2,8,At Risk,High,Win-back Campaign
+CUST0272,477,2,401.62,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0273,278,2,670.61,2,1,2,5,At Risk,High,Win-back Campaign
+CUST0274,175,3,1610.1,3,2,3,8,At Risk,High,Win-back Campaign
+CUST0275,285,4,1131.5,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0276,212,4,1260.16,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0277,138,1,92.38,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0278,564,1,300.75,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0279,115,2,654.81,4,1,2,7,At Risk,High,Win-back Campaign
+CUST0280,39,3,893.56,5,2,2,9,At Risk,High,Win-back Campaign
+CUST0281,418,1,245.17,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0282,157,8,5366.0,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0283,190,10,3855.53,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0284,38,42,104963.95,5,5,5,15,Champions,Low,Reward & Retain
+CUST0285,282,4,1102.39,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0286,63,34,73402.71,4,5,5,14,Champions,Low,Reward & Retain
+CUST0287,444,3,552.86,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0288,428,2,316.01,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0289,57,21,11673.66,4,5,4,13,Loyal Customers,Low,Upsell
+CUST0290,656,1,106.48,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0291,43,41,69075.98,5,5,5,15,Champions,Low,Reward & Retain
+CUST0292,37,21,26109.8,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0293,257,1,154.85,2,1,1,4,At Risk,High,Win-back Campaign
+CUST0294,240,13,7523.22,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0295,19,14,14537.69,5,4,5,14,Loyal Customers,Low,Upsell
+CUST0296,589,1,338.16,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0297,680,1,234.54,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0298,54,11,6361.38,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0299,654,1,187.41,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0300,22,26,69177.04,5,5,5,15,Champions,Low,Reward & Retain
+CUST0301,31,21,27738.72,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0302,363,3,372.69,2,2,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0303,326,1,244.97,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0304,329,3,1350.92,2,2,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0305,358,3,994.02,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0306,412,2,787.75,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0307,500,1,234.13,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0308,157,13,3891.37,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0309,701,1,163.99,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0310,115,11,12664.31,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0311,142,14,5748.44,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0312,87,21,40721.76,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0313,61,21,55497.42,4,5,5,14,Champions,Low,Reward & Retain
+CUST0314,79,2,1117.03,4,1,3,8,At Risk,High,Win-back Campaign
+CUST0315,138,2,824.76,3,1,2,6,At Risk,High,Win-back Campaign
+CUST0316,561,2,333.76,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0317,150,7,3426.08,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0318,121,11,8358.85,4,4,4,12,At Risk,High,Win-back Campaign
+CUST0319,53,11,8500.14,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0320,115,13,10790.15,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0321,401,1,147.2,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0322,616,2,370.08,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0323,334,3,907.22,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0324,65,14,9987.41,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0325,463,2,448.25,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0326,205,1,447.73,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0327,345,4,1405.19,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0328,271,4,804.59,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0329,215,11,6246.47,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0330,64,21,16300.52,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0331,154,10,5051.44,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0332,254,2,1454.1,2,1,3,6,At Risk,High,Win-back Campaign
+CUST0333,7,24,35836.4,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0334,41,17,13580.46,5,4,5,14,Loyal Customers,Low,Upsell
+CUST0335,38,40,58617.61,5,5,5,15,Champions,Low,Reward & Retain
+CUST0336,26,40,60201.67,5,5,5,15,Champions,Low,Reward & Retain
+CUST0337,171,3,1605.52,3,2,3,8,At Risk,High,Win-back Campaign
+CUST0338,352,1,814.2,2,1,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0339,450,2,198.14,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0340,58,33,84197.54,4,5,5,14,Champions,Low,Reward & Retain
+CUST0341,555,1,65.44,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0342,226,5,1473.24,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0343,32,17,11346.6,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0344,226,7,6307.4,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0345,200,14,8529.96,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0346,320,3,852.56,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0347,288,3,313.69,2,2,1,5,At Risk,High,Win-back Campaign
+CUST0348,22,38,102661.66,5,5,5,15,Champions,Low,Reward & Retain
+CUST0349,288,10,7703.23,2,4,4,10,At Risk,High,Win-back Campaign
+CUST0350,483,2,862.17,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0351,660,1,288.88,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0352,120,1,334.83,4,1,1,6,At Risk,High,Win-back Campaign
+CUST0353,379,3,976.51,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0354,238,16,9041.22,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0355,24,25,49823.89,5,5,5,15,Champions,Low,Reward & Retain
+CUST0356,656,3,1014.95,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0357,20,49,114520.79,5,5,5,15,Champions,Low,Reward & Retain
+CUST0358,337,2,439.41,2,2,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0359,245,3,1389.92,3,2,3,8,At Risk,High,Win-back Campaign
+CUST0360,427,2,661.39,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0361,209,8,6457.46,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0362,406,1,194.99,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0363,363,2,403.54,2,2,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0364,335,1,393.09,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0365,302,1,411.65,2,1,1,4,At Risk,High,Win-back Campaign
+CUST0366,177,8,3382.69,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0367,410,2,446.22,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0368,204,1,425.01,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0369,62,13,11420.91,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0370,45,25,67270.54,5,5,5,15,Champions,Low,Reward & Retain
+CUST0371,85,14,13629.91,4,4,5,13,Loyal Customers,Low,Upsell
+CUST0372,37,23,19846.42,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0373,38,33,60817.19,5,5,5,15,Champions,Low,Reward & Retain
+CUST0374,539,1,293.31,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0375,54,32,48560.47,5,5,5,15,Champions,Low,Reward & Retain
+CUST0376,133,14,9509.07,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0377,210,1,168.12,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0378,49,35,56438.44,5,5,5,15,Champions,Low,Reward & Retain
+CUST0379,515,1,332.39,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0380,110,15,11154.32,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0381,202,10,8198.65,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0382,344,5,793.52,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0383,254,2,230.01,2,2,1,5,At Risk,High,Win-back Campaign
+CUST0384,584,1,181.83,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0385,603,2,413.43,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0386,500,3,1424.14,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0387,66,21,14435.94,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0388,140,10,7124.56,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0389,365,1,298.56,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0390,508,1,106.62,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0391,446,2,518.86,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0392,164,12,8246.74,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0393,189,10,4561.34,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0394,170,2,1634.25,3,2,3,8,At Risk,High,Win-back Campaign
+CUST0395,148,14,11096.66,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0396,244,1,678.5,3,1,2,6,At Risk,High,Win-back Campaign
+CUST0397,185,1,256.76,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0398,129,12,6848.93,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0399,330,2,965.05,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0400,547,2,856.51,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0401,121,15,15464.07,4,4,5,13,Loyal Customers,Low,Upsell
+CUST0402,548,1,606.34,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0403,476,4,826.61,1,3,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0404,489,1,641.68,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0405,111,6,2476.59,4,3,3,10,At Risk,High,Win-back Campaign
+CUST0406,99,2,983.66,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0407,379,5,2820.95,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0408,6,20,30095.65,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0409,280,2,582.19,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0410,3,27,27460.34,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0411,219,10,5410.76,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0412,556,1,149.55,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0413,76,1,384.19,4,1,1,6,At Risk,High,Win-back Campaign
+CUST0414,274,4,725.45,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0415,384,2,748.1,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0416,270,12,6663.3,2,4,4,10,At Risk,High,Win-back Campaign
+CUST0417,61,21,21505.64,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0418,343,7,2626.08,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0419,353,4,1621.81,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0420,632,1,336.22,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0421,99,3,926.42,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0422,233,1,524.2,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0423,51,25,41357.1,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0424,297,5,914.23,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0425,43,48,50744.24,5,5,5,15,Champions,Low,Reward & Retain
+CUST0426,314,3,797.13,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0427,124,5,3933.41,4,3,3,10,At Risk,High,Win-back Campaign
+CUST0428,192,3,741.2,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0429,141,8,5300.22,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0430,34,18,18447.55,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0431,85,14,12808.51,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0432,445,1,883.18,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0433,258,5,747.8,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0434,57,24,19349.15,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0435,15,49,100826.15,5,5,5,15,Champions,Low,Reward & Retain
+CUST0436,565,2,760.37,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0437,6,27,72513.89,5,5,5,15,Champions,Low,Reward & Retain
+CUST0438,346,1,560.82,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0439,119,3,1442.18,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0440,22,40,78000.41,5,5,5,15,Champions,Low,Reward & Retain
+CUST0441,27,49,54278.46,5,5,5,15,Champions,Low,Reward & Retain
+CUST0442,56,3,1381.75,5,2,3,10,At Risk,High,Win-back Campaign
+CUST0443,299,5,3142.86,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0444,180,6,2396.65,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0445,40,3,1245.5,5,2,3,10,At Risk,High,Win-back Campaign
+CUST0446,420,2,1022.52,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0447,54,1,663.41,5,1,2,8,At Risk,High,Win-back Campaign
+CUST0448,156,1,554.16,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0449,155,8,7204.5,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0450,30,26,67118.48,5,5,5,15,Champions,Low,Reward & Retain
+CUST0451,185,3,577.82,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0452,516,2,505.96,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0453,144,6,1670.85,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0454,259,2,517.38,2,2,1,5,At Risk,High,Win-back Campaign
+CUST0455,78,20,9920.81,4,5,4,13,Loyal Customers,Low,Upsell
+CUST0456,403,5,1805.5,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0457,24,39,68252.36,5,5,5,15,Champions,Low,Reward & Retain
+CUST0458,343,5,1648.71,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0459,21,33,51908.71,5,5,5,15,Champions,Low,Reward & Retain
+CUST0460,49,23,22895.64,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0461,104,10,8150.49,4,4,4,12,At Risk,High,Win-back Campaign
+CUST0462,367,5,800.45,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0463,166,2,420.79,3,2,1,6,At Risk,High,Win-back Campaign
+CUST0464,219,4,1330.62,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0465,487,3,1521.55,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0466,140,6,3884.41,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0467,68,14,5828.95,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0468,359,2,700.77,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0469,34,22,14640.18,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0470,260,2,902.59,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0471,21,44,92093.96,5,5,5,15,Champions,Low,Reward & Retain
+CUST0472,196,1,366.64,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0473,10,20,53287.44,5,5,5,15,Champions,Low,Reward & Retain
+CUST0474,210,2,1041.24,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0475,291,5,943.74,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0476,224,1,473.77,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0477,58,25,26994.09,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0478,442,5,1799.32,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0479,165,3,1077.23,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0480,401,5,2321.91,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0481,384,4,1354.49,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0482,305,4,1264.28,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0483,700,1,207.08,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0484,262,3,417.76,2,2,1,5,At Risk,High,Win-back Campaign
+CUST0485,410,4,1403.92,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0486,55,1,434.57,5,1,1,7,At Risk,High,Win-back Campaign
+CUST0487,53,29,57463.25,5,5,5,15,Champions,Low,Reward & Retain
+CUST0488,39,18,11259.8,5,5,4,14,Loyal Customers,Low,Upsell
+CUST0489,161,2,975.27,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0490,128,2,467.04,4,2,1,7,At Risk,High,Win-back Campaign
+CUST0491,328,5,1747.54,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0492,353,5,1232.72,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0493,54,21,11477.52,5,5,4,14,Loyal Customers,Low,Upsell
+CUST0494,39,23,18010.77,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0495,386,2,333.79,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0496,181,10,8127.96,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0497,384,2,182.57,2,2,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0498,15,44,40760.53,5,5,5,15,Champions,Low,Reward & Retain
+CUST0499,64,2,927.42,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0500,351,1,213.39,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0501,341,3,610.48,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0502,526,1,192.57,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0503,201,12,7280.2,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0504,158,3,883.78,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0505,428,3,823.01,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0506,50,21,17581.61,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0507,502,2,1408.61,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0508,194,3,1559.73,3,2,3,8,At Risk,High,Win-back Campaign
+CUST0509,171,3,1528.22,3,2,3,8,At Risk,High,Win-back Campaign
+CUST0510,178,3,1192.91,3,2,3,8,At Risk,High,Win-back Campaign
+CUST0511,549,2,623.65,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0512,358,6,3649.45,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0513,94,2,428.61,4,2,1,7,At Risk,High,Win-back Campaign
+CUST0514,63,3,1925.62,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0515,29,31,68655.67,5,5,5,15,Champions,Low,Reward & Retain
+CUST0516,25,45,49008.7,5,5,5,15,Champions,Low,Reward & Retain
+CUST0517,180,6,5197.05,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0518,213,2,1003.5,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0519,619,1,558.58,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0520,51,13,13448.17,5,4,5,14,Loyal Customers,Low,Upsell
+CUST0521,345,3,874.02,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0522,159,10,3179.94,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0523,601,3,1263.99,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0524,117,3,1335.83,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0525,167,3,933.64,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0526,344,4,529.01,2,3,1,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0527,203,13,4737.54,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0528,67,20,22368.23,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0529,17,41,67035.22,5,5,5,15,Champions,Low,Reward & Retain
+CUST0530,584,1,211.78,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0531,176,1,268.61,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0532,526,1,421.96,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0533,458,1,473.9,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0534,313,5,1446.31,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0535,123,2,1281.65,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0536,163,2,690.4,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0537,171,3,904.07,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0538,58,21,14532.71,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0539,499,3,744.19,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0540,52,14,12838.58,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0541,43,3,1913.64,5,2,3,10,At Risk,High,Win-back Campaign
+CUST0542,462,2,204.62,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0543,58,23,9830.31,4,5,4,13,Loyal Customers,Low,Upsell
+CUST0544,463,5,1952.29,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0545,463,2,595.76,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0546,214,7,2866.05,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0547,51,16,7650.87,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0548,515,1,278.18,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0549,312,3,780.61,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0550,234,2,726.41,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0551,382,4,1645.79,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0552,65,3,1058.37,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0553,301,1,130.89,2,1,1,4,At Risk,High,Win-back Campaign
+CUST0554,517,2,516.81,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0555,478,3,1165.11,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0556,198,14,6372.32,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0557,106,11,6259.08,4,4,4,12,At Risk,High,Win-back Campaign
+CUST0558,27,25,60937.13,5,5,5,15,Champions,Low,Reward & Retain
+CUST0559,98,2,1056.68,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0560,420,2,765.92,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0561,183,2,367.85,3,2,1,6,At Risk,High,Win-back Campaign
+CUST0562,63,15,17312.52,4,4,5,13,Loyal Customers,Low,Upsell
+CUST0563,115,18,22370.16,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0564,31,36,95029.73,5,5,5,15,Champions,Low,Reward & Retain
+CUST0565,159,14,8997.82,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0566,325,3,1077.81,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0567,164,11,5545.26,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0568,194,13,9248.21,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0569,55,3,1409.21,5,2,3,10,At Risk,High,Win-back Campaign
+CUST0570,114,5,2927.67,4,3,3,10,At Risk,High,Win-back Campaign
+CUST0571,466,1,184.37,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0572,199,2,747.46,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0573,318,10,5121.56,2,4,4,10,At Risk,High,Win-back Campaign
+CUST0574,385,3,286.08,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0575,127,2,1130.87,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0576,197,1,664.4,3,1,2,6,At Risk,High,Win-back Campaign
+CUST0577,107,16,7271.75,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0578,460,2,1238.8,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0579,468,3,790.45,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0580,139,16,19877.89,3,4,5,12,Loyal Customers,Low,Upsell
+CUST0581,330,5,576.01,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0582,30,3,1849.87,5,2,3,10,At Risk,High,Win-back Campaign
+CUST0583,268,3,1127.35,2,2,3,7,At Risk,High,Win-back Campaign
+CUST0584,179,13,6690.5,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0585,301,4,1060.82,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0586,28,17,10721.68,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0587,25,48,59051.17,5,5,5,15,Champions,Low,Reward & Retain
+CUST0588,37,20,18995.52,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0589,100,11,9924.3,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0590,25,14,8634.47,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0591,82,19,22630.68,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0592,288,2,294.36,2,2,1,5,At Risk,High,Win-back Campaign
+CUST0593,83,23,14361.18,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0594,137,10,9016.19,4,4,4,12,At Risk,High,Win-back Campaign
+CUST0595,228,1,569.61,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0596,331,3,941.45,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0597,413,5,1196.28,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0598,59,20,22888.79,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0599,67,13,6152.62,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0600,10,27,38392.14,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0601,48,12,7379.44,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0602,76,16,11322.26,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0603,72,19,13675.81,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0604,66,35,77909.6,4,5,5,14,Champions,Low,Reward & Retain
+CUST0605,63,22,22646.29,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0606,631,1,363.84,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0607,180,13,14330.19,3,4,5,12,Loyal Customers,Low,Upsell
+CUST0608,222,6,4887.65,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0609,297,2,349.14,2,2,1,5,At Risk,High,Win-back Campaign
+CUST0610,318,5,739.67,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0611,14,27,51526.78,5,5,5,15,Champions,Low,Reward & Retain
+CUST0612,46,2,650.72,5,2,2,9,At Risk,High,Win-back Campaign
+CUST0613,235,5,1014.43,3,3,2,8,At Risk,High,Win-back Campaign
+CUST0614,45,46,45296.71,5,5,5,15,Champions,Low,Reward & Retain
+CUST0615,67,3,1248.98,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0616,599,2,1094.11,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0617,22,21,29364.31,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0618,74,24,11003.63,4,5,4,13,Loyal Customers,Low,Upsell
+CUST0619,538,1,343.72,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0620,93,3,1589.18,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0621,28,13,6407.58,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0622,53,10,6252.81,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0623,230,8,3159.83,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0624,629,2,530.36,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0625,299,5,790.68,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0626,189,6,5044.26,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0627,360,4,1126.25,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0628,56,3,1346.07,5,2,3,10,At Risk,High,Win-back Campaign
+CUST0629,37,42,64123.53,5,5,5,15,Champions,Low,Reward & Retain
+CUST0630,54,19,17000.29,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0631,287,1,809.79,2,1,2,5,At Risk,High,Win-back Campaign
+CUST0632,104,2,526.81,4,2,1,7,At Risk,High,Win-back Campaign
+CUST0633,343,5,1618.33,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0634,235,5,586.77,3,3,2,8,At Risk,High,Win-back Campaign
+CUST0635,117,14,12802.5,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0636,142,14,7942.56,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0637,272,5,786.56,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0638,143,10,6688.01,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0639,70,15,12373.92,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0640,191,9,5248.53,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0641,38,26,65131.88,5,5,5,15,Champions,Low,Reward & Retain
+CUST0642,155,13,4669.51,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0643,40,18,15956.79,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0644,353,9,4593.13,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0645,89,18,11010.8,4,5,4,13,Loyal Customers,Low,Upsell
+CUST0646,376,1,206.05,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0647,316,5,1514.53,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0648,486,2,980.08,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0649,388,1,500.23,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0650,349,2,219.05,2,2,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0651,43,44,97755.98,5,5,5,15,Champions,Low,Reward & Retain
+CUST0652,422,3,1165.27,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0653,455,1,290.47,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0654,537,2,1194.58,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0655,153,7,3617.74,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0656,27,13,13532.63,5,4,5,14,Loyal Customers,Low,Upsell
+CUST0657,33,20,16793.56,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0658,141,13,7011.77,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0659,430,2,595.43,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0660,318,4,562.19,2,3,1,6,At Risk,High,Win-back Campaign
+CUST0661,149,11,6556.5,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0662,606,1,392.02,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0663,565,2,490.06,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0664,75,11,4971.42,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0665,23,24,11737.73,5,5,4,14,Loyal Customers,Low,Upsell
+CUST0666,62,15,13026.39,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0667,23,23,16065.4,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0668,71,10,3198.36,4,4,3,11,At Risk,High,Win-back Campaign
+CUST0669,82,13,10146.56,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0670,66,15,12807.02,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0671,123,14,14895.69,4,4,5,13,Loyal Customers,Low,Upsell
+CUST0672,262,2,1275.21,2,2,3,7,At Risk,High,Win-back Campaign
+CUST0673,52,34,75273.27,5,5,5,15,Champions,Low,Reward & Retain
+CUST0674,407,4,589.76,1,3,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0675,171,8,4351.46,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0676,722,1,210.21,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0677,52,16,8500.06,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0678,136,12,9135.72,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0679,110,3,1311.87,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0680,616,3,1803.6,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0681,301,2,683.67,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0682,102,15,8242.66,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0683,16,14,10890.7,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0684,513,1,192.87,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0685,15,3,1663.55,5,2,3,10,At Risk,High,Win-back Campaign
+CUST0686,435,3,828.11,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0687,354,4,1068.59,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0688,89,12,11118.14,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0689,98,1,669.23,4,1,2,7,At Risk,High,Win-back Campaign
+CUST0690,80,12,7554.12,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0691,251,10,5181.22,2,4,4,10,At Risk,High,Win-back Campaign
+CUST0692,209,10,5481.69,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0693,335,2,160.87,2,2,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0694,25,21,9844.0,5,5,4,14,Loyal Customers,Low,Upsell
+CUST0695,149,14,10364.13,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0696,388,1,216.61,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0697,86,19,22935.95,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0698,588,1,266.48,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0699,190,16,17732.68,3,4,5,12,Loyal Customers,Low,Upsell
+CUST0700,318,5,1477.7,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0701,471,3,573.84,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0702,24,47,111360.2,5,5,5,15,Champions,Low,Reward & Retain
+CUST0703,154,12,6622.72,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0704,100,15,7072.82,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0705,6,39,50428.92,5,5,5,15,Champions,Low,Reward & Retain
+CUST0706,96,2,894.83,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0707,228,13,5157.07,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0708,237,2,1094.32,3,2,3,8,At Risk,High,Win-back Campaign
+CUST0709,62,24,10513.62,4,5,4,13,Loyal Customers,Low,Upsell
+CUST0710,481,4,702.93,1,3,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0711,379,2,546.31,2,2,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0712,311,5,1743.77,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0713,282,2,251.61,2,2,1,5,At Risk,High,Win-back Campaign
+CUST0714,159,12,3845.31,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0715,221,7,5178.15,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0716,51,2,1093.98,5,2,3,10,At Risk,High,Win-back Campaign
+CUST0717,505,3,652.4,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0718,76,3,644.25,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0719,51,20,20273.23,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0720,131,2,460.07,4,2,1,7,At Risk,High,Win-back Campaign
+CUST0721,101,2,1172.57,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0722,123,17,9643.71,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0723,15,39,99384.64,5,5,5,15,Champions,Low,Reward & Retain
+CUST0724,206,3,818.29,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0725,267,4,980.82,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0726,537,1,283.41,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0727,108,23,12655.16,4,5,4,13,Loyal Customers,Low,Upsell
+CUST0728,441,1,524.72,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0729,27,23,24047.73,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0730,83,17,13537.37,4,4,5,13,Loyal Customers,Low,Upsell
+CUST0731,55,15,10112.34,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0732,443,1,614.38,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0733,412,3,1336.72,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0734,584,4,743.48,1,3,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0735,109,8,6471.18,4,3,4,11,At Risk,High,Win-back Campaign
+CUST0736,460,1,558.9,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0737,118,10,9357.83,4,4,4,12,At Risk,High,Win-back Campaign
+CUST0738,220,1,392.83,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0739,277,8,3293.59,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0740,240,7,4540.31,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0741,242,4,431.33,3,3,1,7,At Risk,High,Win-back Campaign
+CUST0742,242,13,4679.52,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0743,75,3,1149.18,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0744,295,2,647.07,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0745,57,11,10520.99,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0746,255,2,563.37,2,2,1,5,At Risk,High,Win-back Campaign
+CUST0747,167,12,4289.62,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0748,459,2,486.28,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0749,621,1,408.09,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0750,377,2,365.03,2,2,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0751,55,15,10802.51,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0752,603,1,542.72,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0753,289,5,575.58,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0754,148,9,5045.11,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0755,73,24,23311.15,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0756,67,3,1909.18,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0757,451,3,1050.19,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0758,507,1,133.66,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0759,504,1,434.82,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0760,69,2,818.0,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0761,142,13,13619.82,3,4,5,12,Loyal Customers,Low,Upsell
+CUST0762,328,5,1498.73,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0763,139,16,9142.37,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0764,147,2,652.03,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0765,15,40,80922.29,5,5,5,15,Champions,Low,Reward & Retain
+CUST0766,477,3,1435.2,1,2,3,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0767,69,3,625.33,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0768,216,2,938.38,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0769,181,6,5808.15,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0770,382,2,556.53,2,2,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0771,58,24,9975.2,4,5,4,13,Loyal Customers,Low,Upsell
+CUST0772,80,2,549.35,4,2,1,7,At Risk,High,Win-back Campaign
+CUST0773,33,18,8464.07,5,5,4,14,Loyal Customers,Low,Upsell
+CUST0774,138,5,2667.45,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0775,587,1,403.93,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0776,120,18,20616.25,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0777,60,21,21000.85,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0778,581,1,630.56,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0779,72,1,135.46,4,1,1,6,At Risk,High,Win-back Campaign
+CUST0780,460,4,1645.97,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0781,373,4,778.42,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0782,360,5,1189.95,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0783,52,23,24622.61,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0784,218,9,4409.41,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0785,67,23,11462.52,4,5,4,13,Loyal Customers,Low,Upsell
+CUST0786,121,3,1192.65,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0787,345,3,1019.9,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0788,305,10,6044.02,2,4,4,10,At Risk,High,Win-back Campaign
+CUST0789,428,5,567.84,1,3,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0790,281,3,764.29,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0791,80,18,9831.91,4,5,4,13,Loyal Customers,Low,Upsell
+CUST0792,584,3,520.83,1,3,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0793,291,4,695.99,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0794,274,5,1920.53,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0795,74,25,39173.1,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0796,122,3,1238.14,4,3,3,10,At Risk,High,Win-back Campaign
+CUST0797,140,3,904.22,3,3,2,8,At Risk,High,Win-back Campaign
+CUST0798,705,2,583.73,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0799,220,3,592.33,3,3,2,8,At Risk,High,Win-back Campaign
+CUST0800,211,2,397.47,3,2,1,6,At Risk,High,Win-back Campaign
+CUST0801,184,3,1926.93,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0802,156,12,9761.93,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0803,396,5,1203.25,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0804,236,3,843.97,3,3,2,8,At Risk,High,Win-back Campaign
+CUST0805,253,7,3152.52,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0806,86,2,1272.34,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0807,79,2,1103.29,4,2,3,9,At Risk,High,Win-back Campaign
+CUST0808,85,3,1309.5,4,3,3,10,At Risk,High,Win-back Campaign
+CUST0809,374,4,1507.36,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0810,92,16,18654.54,4,4,5,13,Loyal Customers,Low,Upsell
+CUST0811,335,1,260.68,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0812,94,3,582.7,4,3,2,9,At Risk,High,Win-back Campaign
+CUST0813,64,14,11720.9,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0814,63,3,569.09,4,3,1,8,At Risk,High,Win-back Campaign
+CUST0815,513,1,292.73,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0816,342,1,112.4,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0817,346,1,186.44,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0818,212,8,7628.23,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0819,1,49,36803.36,5,5,5,15,Champions,Low,Reward & Retain
+CUST0820,135,10,7752.22,4,4,4,12,At Risk,High,Win-back Campaign
+CUST0821,376,1,273.91,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0822,45,35,99540.79,5,5,5,15,Champions,Low,Reward & Retain
+CUST0823,276,5,1611.71,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0824,152,8,3664.77,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0825,451,3,545.53,1,3,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0826,181,3,801.54,3,3,2,8,At Risk,High,Win-back Campaign
+CUST0827,168,10,4076.11,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0828,208,6,4022.01,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0829,149,1,475.66,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0830,354,2,1024.69,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0831,33,24,18750.43,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0832,327,5,1833.05,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0833,40,19,14044.5,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0834,153,19,9197.11,3,5,4,12,Loyal Customers,Low,Upsell
+CUST0835,300,2,324.61,2,2,1,5,At Risk,High,Win-back Campaign
+CUST0836,190,12,6696.22,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0837,73,3,1192.01,4,3,3,10,At Risk,High,Win-back Campaign
+CUST0838,158,7,5676.94,3,3,4,10,At Risk,High,Win-back Campaign
+CUST0839,444,4,928.13,1,3,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0840,304,2,771.52,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0841,46,21,57423.77,5,5,5,15,Champions,Low,Reward & Retain
+CUST0842,375,1,230.25,2,1,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0843,67,13,7484.4,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0844,463,1,923.2,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0845,84,15,10640.67,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0846,298,6,3493.2,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0847,26,20,52481.76,5,5,5,15,Champions,Low,Reward & Retain
+CUST0848,356,2,919.23,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0849,306,4,845.46,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0850,654,1,317.32,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0851,8,41,65909.46,5,5,5,15,Champions,Low,Reward & Retain
+CUST0852,698,1,354.11,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0853,232,19,9344.29,3,5,4,12,Loyal Customers,Low,Upsell
+CUST0854,52,3,773.3,5,3,2,10,At Risk,High,Win-back Campaign
+CUST0855,44,12,7585.74,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0856,100,24,29456.06,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0857,3,33,39484.99,5,5,5,15,Champions,Low,Reward & Retain
+CUST0858,220,1,102.32,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0859,337,4,1082.5,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0860,24,26,44587.34,5,5,5,15,Champions,Low,Reward & Retain
+CUST0861,39,3,1535.52,5,3,3,11,At Risk,High,Win-back Campaign
+CUST0862,390,4,833.9,1,3,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0863,381,5,2140.28,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0864,118,10,4713.03,4,4,4,12,At Risk,High,Win-back Campaign
+CUST0865,216,12,11102.98,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0866,466,3,1085.11,1,3,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0867,33,16,11898.77,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0868,51,14,12615.78,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0869,50,3,1879.96,5,3,3,11,At Risk,High,Win-back Campaign
+CUST0870,218,2,886.21,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0871,168,9,4245.82,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0872,36,23,11498.26,5,5,4,14,Loyal Customers,Low,Upsell
+CUST0873,209,5,508.74,3,3,1,7,At Risk,High,Win-back Campaign
+CUST0874,221,8,2708.58,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0875,23,44,63273.49,5,5,5,15,Champions,Low,Reward & Retain
+CUST0876,125,13,15298.52,4,4,5,13,Loyal Customers,Low,Upsell
+CUST0877,20,1,121.28,5,1,1,7,At Risk,High,Win-back Campaign
+CUST0878,382,5,647.84,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0879,44,49,90190.51,5,5,5,15,Champions,Low,Reward & Retain
+CUST0880,40,24,25599.33,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0881,24,22,13781.16,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0882,605,5,615.42,1,3,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0883,40,45,46760.81,5,5,5,15,Champions,Low,Reward & Retain
+CUST0884,113,14,10056.27,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0885,618,1,220.92,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0886,124,14,5430.2,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0887,378,5,1667.93,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0888,40,14,12801.35,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0889,26,44,44860.89,5,5,5,15,Champions,Low,Reward & Retain
+CUST0890,71,20,22517.28,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0891,199,1,291.03,3,1,1,5,At Risk,High,Win-back Campaign
+CUST0892,63,1,602.44,4,1,2,7,At Risk,High,Win-back Campaign
+CUST0893,119,2,401.04,4,2,1,7,At Risk,High,Win-back Campaign
+CUST0894,238,13,8489.88,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0895,541,1,281.62,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0896,65,17,18746.25,4,4,5,13,Loyal Customers,Low,Upsell
+CUST0897,95,18,17183.56,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0898,455,3,1184.63,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0899,27,27,38288.34,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0900,24,44,100846.79,5,5,5,15,Champions,Low,Reward & Retain
+CUST0901,184,14,15447.97,3,4,5,12,Loyal Customers,Low,Upsell
+CUST0902,54,44,63745.11,5,5,5,15,Champions,Low,Reward & Retain
+CUST0903,48,12,5212.39,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0904,335,3,353.83,2,3,1,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0905,217,5,1927.79,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0906,391,3,981.86,1,3,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0907,324,3,1200.07,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0908,236,13,11414.74,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0909,68,23,19189.3,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0910,225,11,9852.12,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0911,387,2,290.67,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0912,113,13,11602.08,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0913,312,4,1992.41,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0914,202,5,2958.16,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0915,490,2,638.66,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0916,188,12,5615.77,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0917,145,16,11516.34,3,4,4,11,Loyal Customers,Low,Upsell
+CUST0918,305,1,159.67,2,1,1,4,At Risk,High,Win-back Campaign
+CUST0919,51,3,1487.01,5,3,3,11,At Risk,High,Win-back Campaign
+CUST0920,41,24,18268.73,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0921,456,1,414.18,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0922,313,4,1354.44,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0923,538,2,876.39,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0924,38,3,1381.4,5,3,3,11,At Risk,High,Win-back Campaign
+CUST0925,180,10,4394.94,3,4,3,10,At Risk,High,Win-back Campaign
+CUST0926,15,38,105290.91,5,5,5,15,Champions,Low,Reward & Retain
+CUST0927,128,14,8102.78,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0928,362,5,1165.04,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0929,350,2,653.26,2,2,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0930,101,13,8866.69,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0931,64,11,3562.68,4,4,3,11,Loyal Customers,Low,Upsell
+CUST0932,243,2,983.05,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0933,66,3,1475.98,4,3,3,10,At Risk,High,Win-back Campaign
+CUST0934,370,3,893.68,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0935,55,18,10737.95,5,5,4,14,Loyal Customers,Low,Upsell
+CUST0936,59,18,16492.12,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0937,21,39,39899.56,5,5,5,15,Champions,Low,Reward & Retain
+CUST0938,259,3,1069.17,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0939,82,20,18957.71,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0940,396,3,556.61,1,3,1,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0941,210,11,4998.06,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0942,640,2,530.85,1,2,1,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0943,591,1,328.42,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0944,303,3,1168.99,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0945,47,24,27714.87,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0946,10,44,112255.01,5,5,5,15,Champions,Low,Reward & Retain
+CUST0947,77,16,17955.6,4,4,5,13,Loyal Customers,Low,Upsell
+CUST0948,704,1,521.36,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0949,175,2,914.69,3,2,2,7,At Risk,High,Win-back Campaign
+CUST0950,301,5,1754.99,2,3,3,8,At Risk,High,Win-back Campaign
+CUST0951,356,5,1741.1,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0952,297,4,807.64,2,3,2,7,At Risk,High,Win-back Campaign
+CUST0953,61,14,13227.27,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0954,132,2,999.2,4,2,2,8,At Risk,High,Win-back Campaign
+CUST0955,118,14,8400.88,4,4,4,12,Loyal Customers,Low,Upsell
+CUST0956,131,8,4468.27,4,3,3,10,At Risk,High,Win-back Campaign
+CUST0957,517,2,624.42,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0958,22,28,71824.61,5,5,5,15,Champions,Low,Reward & Retain
+CUST0959,111,24,19929.26,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0960,344,3,1900.09,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0961,107,30,78889.65,4,5,5,14,Champions,Low,Reward & Retain
+CUST0962,338,3,1422.28,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0963,44,14,13432.02,5,4,4,13,Loyal Customers,Low,Upsell
+CUST0964,274,9,4343.43,2,4,3,9,At Risk,High,Win-back Campaign
+CUST0965,53,24,15012.24,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0966,224,5,2366.9,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0967,280,2,889.51,2,2,2,6,At Risk,High,Win-back Campaign
+CUST0968,187,10,7671.11,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0969,450,1,334.37,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0970,581,3,1098.0,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0971,334,3,796.07,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0972,413,3,1668.71,1,3,3,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0973,33,2,1494.36,5,2,3,10,At Risk,High,Win-back Campaign
+CUST0974,98,21,16208.92,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0975,36,26,63756.47,5,5,5,15,Champions,Low,Reward & Retain
+CUST0976,60,20,17744.64,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0977,410,5,663.24,1,3,2,6,Hibernating,Very High,Re-engagement / Suppress
+CUST0978,29,45,95726.44,5,5,5,15,Champions,Low,Reward & Retain
+CUST0979,421,1,337.91,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0980,373,5,1820.49,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0981,158,7,4613.52,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0982,7,2,684.04,5,2,2,9,At Risk,High,Win-back Campaign
+CUST0983,40,21,11009.21,5,5,4,14,Loyal Customers,Low,Upsell
+CUST0984,4,36,48464.99,5,5,5,15,Champions,Low,Reward & Retain
+CUST0985,529,1,816.26,1,1,2,4,Hibernating,Very High,Re-engagement / Suppress
+CUST0986,349,5,852.42,2,3,2,7,Hibernating,Very High,Re-engagement / Suppress
+CUST0987,419,1,362.65,1,1,1,3,Hibernating,Very High,Re-engagement / Suppress
+CUST0988,192,11,6204.42,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0989,30,20,20782.57,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0990,250,1,157.63,2,1,1,4,At Risk,High,Win-back Campaign
+CUST0991,198,3,1184.58,3,3,3,9,At Risk,High,Win-back Campaign
+CUST0992,275,3,544.18,2,3,1,6,At Risk,High,Win-back Campaign
+CUST0993,142,20,9512.46,3,5,4,12,Loyal Customers,Low,Upsell
+CUST0994,559,2,806.01,1,2,2,5,Hibernating,Very High,Re-engagement / Suppress
+CUST0995,236,9,9118.06,3,4,4,11,At Risk,High,Win-back Campaign
+CUST0996,87,20,43525.53,4,5,5,14,Loyal Customers,Low,Upsell
+CUST0997,341,3,1680.66,2,3,3,8,Hibernating,Very High,Re-engagement / Suppress
+CUST0998,34,19,16383.53,5,5,5,15,Loyal Customers,Low,Upsell
+CUST0999,307,1,232.4,2,1,1,4,At Risk,High,Win-back Campaign
+CUST1000,198,14,12495.44,3,4,4,11,Loyal Customers,Low,Upsell

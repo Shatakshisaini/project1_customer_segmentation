@@ -1,0 +1,5 @@
+Segment,Churn_Risk,Action_Recommended,Customer_Count,Avg_Recency,Avg_Frequency,Avg_Monetary,Total_Revenue,Avg_RFM_Score,Revenue_Pct
+At Risk,High,Win-back Campaign,380,186.9,4.9,2522.9,958702.0,8.2,9.0
+Champions,Low,Reward & Retain,86,30.5,36.8,67892.2,5838729.0,14.9,55.1
+Hibernating,Very High,Re-engagement / Suppress,298,455.0,2.5,785.4,234041.3,5.0,2.2
+Loyal Customers,Low,Upsell,236,74.8,17.6,15112.6,3566564.4,13.3,33.7

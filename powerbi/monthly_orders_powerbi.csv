@@ -1,0 +1,87 @@
+year,month,month_name,quarter,Segment,Orders,Revenue,Avg_Order_Value
+2022,1,January,Q1,At Risk,93,48197.32,518.25
+2022,1,January,Q1,Champions,123,239739.4,1949.1
+2022,1,January,Q1,Hibernating,55,17353.61,315.52
+2022,1,January,Q1,Loyal Customers,154,124201.62,806.5
+2022,2,February,Q1,At Risk,94,52318.43,556.58
+2022,2,February,Q1,Champions,127,236214.72,1859.96
+2022,2,February,Q1,Hibernating,46,14508.43,315.4
+2022,2,February,Q1,Loyal Customers,151,130445.22,863.88
+2022,3,March,Q1,At Risk,86,45086.42,524.26
+2022,3,March,Q1,Champions,139,254253.94,1829.17
+2022,3,March,Q1,Hibernating,57,18046.31,316.6
+2022,3,March,Q1,Loyal Customers,190,168114.62,884.81
+2022,4,April,Q2,At Risk,105,55754.37,530.99
+2022,4,April,Q2,Champions,126,225756.41,1791.72
+2022,4,April,Q2,Hibernating,49,15314.16,312.53
+2022,4,April,Q2,Loyal Customers,201,173893.48,865.14
+2022,5,May,Q2,At Risk,78,40551.24,519.89
+2022,5,May,Q2,Champions,143,298319.15,2086.15
+2022,5,May,Q2,Hibernating,49,15776.22,321.96
+2022,5,May,Q2,Loyal Customers,198,170390.43,860.56
+2022,6,June,Q2,At Risk,99,52854.99,533.89
+2022,6,June,Q2,Champions,144,272036.08,1889.14
+2022,6,June,Q2,Hibernating,48,16027.53,333.91
+2022,6,June,Q2,Loyal Customers,179,144657.64,808.14
+2022,7,July,Q3,At Risk,73,35464.47,485.81
+2022,7,July,Q3,Champions,136,257777.68,1895.42
+2022,7,July,Q3,Hibernating,63,21343.49,338.79
+2022,7,July,Q3,Loyal Customers,168,141662.2,843.23
+2022,8,August,Q3,At Risk,99,52419.03,529.49
+2022,8,August,Q3,Champions,127,219084.72,1725.08
+2022,8,August,Q3,Hibernating,65,19568.17,301.05
+2022,8,August,Q3,Loyal Customers,161,134860.4,837.64
+2022,9,September,Q3,At Risk,73,38151.49,522.62
+2022,9,September,Q3,Champions,130,258163.08,1985.87
+2022,9,September,Q3,Hibernating,69,20575.86,298.2
+2022,9,September,Q3,Loyal Customers,172,158794.28,923.22
+2022,10,October,Q4,At Risk,78,43305.44,555.2
+2022,10,October,Q4,Champions,142,248052.2,1746.85
+2022,10,October,Q4,Hibernating,51,14935.59,292.85
+2022,10,October,Q4,Loyal Customers,201,171977.16,855.61
+2022,11,November,Q4,At Risk,74,37275.35,503.72
+2022,11,November,Q4,Champions,162,302707.85,1868.57
+2022,11,November,Q4,Hibernating,52,17850.56,343.28
+2022,11,November,Q4,Loyal Customers,184,156067.49,848.19
+2022,12,December,Q4,At Risk,79,38298.39,484.79
+2022,12,December,Q4,Champions,127,244816.09,1927.69
+2022,12,December,Q4,Hibernating,61,17835.92,292.39
+2022,12,December,Q4,Loyal Customers,174,148626.22,854.17
+2023,1,January,Q1,At Risk,88,45378.22,515.66
+2023,1,January,Q1,Champions,152,272405.5,1792.14
+2023,1,January,Q1,Hibernating,63,19923.57,316.25
+2023,1,January,Q1,Loyal Customers,188,164189.35,873.35
+2023,2,February,Q1,At Risk,102,48095.86,471.53
+2023,2,February,Q1,Champions,117,227898.56,1947.85
+2023,2,February,Q1,Hibernating,13,4981.89,383.22
+2023,2,February,Q1,Loyal Customers,170,146157.21,859.75
+2023,3,March,Q1,At Risk,114,53351.66,468.0
+2023,3,March,Q1,Champions,156,282741.03,1812.44
+2023,3,March,Q1,Loyal Customers,183,156791.56,856.78
+2023,4,April,Q2,At Risk,97,48283.52,497.77
+2023,4,April,Q2,Champions,126,238984.11,1896.7
+2023,4,April,Q2,Loyal Customers,199,167573.73,842.08
+2023,5,May,Q2,At Risk,125,64571.91,516.58
+2023,5,May,Q2,Champions,134,253175.96,1889.37
+2023,5,May,Q2,Loyal Customers,182,157753.42,866.78
+2023,6,June,Q2,At Risk,86,45256.13,526.23
+2023,6,June,Q2,Champions,124,239922.02,1934.86
+2023,6,June,Q2,Loyal Customers,163,131886.89,809.12
+2023,7,July,Q3,At Risk,85,42770.3,503.18
+2023,7,July,Q3,Champions,146,273502.92,1873.31
+2023,7,July,Q3,Loyal Customers,197,169983.27,862.86
+2023,8,August,Q3,At Risk,53,26394.99,498.02
+2023,8,August,Q3,Champions,113,225851.26,1998.68
+2023,8,August,Q3,Loyal Customers,210,178681.9,850.87
+2023,9,September,Q3,At Risk,38,18019.5,474.2
+2023,9,September,Q3,Champions,128,253990.25,1984.3
+2023,9,September,Q3,Loyal Customers,189,164766.79,871.78
+2023,10,October,Q4,At Risk,29,12453.03,429.41
+2023,10,October,Q4,Champions,145,277403.94,1913.13
+2023,10,October,Q4,Loyal Customers,191,169720.78,888.59
+2023,11,November,Q4,At Risk,24,11888.63,495.36
+2023,11,November,Q4,Champions,162,310766.33,1918.31
+2023,11,November,Q4,Loyal Customers,127,113258.33,891.8
+2023,12,December,Q4,At Risk,6,2561.27,426.88
+2023,12,December,Q4,Champions,81,137713.5,1700.17
+2023,12,December,Q4,Loyal Customers,29,31141.46,1073.84
